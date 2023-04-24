@@ -28,12 +28,12 @@ The results generated after encryption using RSA algorithm on the image '1.png' 
 
 | ![1.png](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png) |
 |:--:|
-| <b>Fig:<\b> Original Image|
+| <b>Fig:</b> Original Image|
 
 | ![Encrypted1.png](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png) |
 |:--:|
-| <b>Fig:<\b> Encrypted Image|
+| <b>Fig:</b> Encrypted Image|
  
 | ![Decrypted1.png](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png) |
 |:--:|
-| <b>Fig:<\b> Decrypted|
+| <b>Fig:</b> Decrypted|
