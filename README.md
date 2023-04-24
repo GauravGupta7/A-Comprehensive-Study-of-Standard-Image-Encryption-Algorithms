@@ -1,10 +1,11 @@
 # A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms
 
-Tools Used: 
+### Tools Used:
+
 * Python Programming Language
 * Google's COLAB
 
-Libraries Used: 
+### Libraries Used: 
 * Numpy
 * Matplotlib
 * Pillow
