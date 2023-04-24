@@ -98,3 +98,13 @@ For <b>Logistic Chaos Map Algorithm</b> the scatter plots of Adjacent Pixel Auto
 Original Image            |  Encrypted Image          |  Decrypted Image
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_O.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_E.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_D.png)
+
+### 2. Correlation Coefficient:
+For a good encryption algorithm, the correlation coefficient between the original and encrypted image should be as low as possible and the correlation coefficient between the original and decrypted image should be as high as possible. It is a ratio and generally lies between -1 and 1. The table below shows the average correlation coefficient for 3 different images for all four of the algorithms:
+
+   Algorithm        |    Original-Encrypted     |    Original Decrypted
+:-------------     |    :-----------------:    |    :-----------------:
+RSA Algorithm        |    0.03180686           |    0.8110046767
+Arnold's Cat Map       |    0.08017079           |    1.0
+Henon's Chaotic Map        |    0.00423634           |    1.0
+Logistic Chaos Map        |    0.00135732           |    0.811005
