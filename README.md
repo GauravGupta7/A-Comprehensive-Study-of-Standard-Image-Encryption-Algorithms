@@ -21,4 +21,4 @@ Here we have tried to study the most used Image Encryption approaches. First we 
 * Adjacent Pixel Autocorrelation
 * Correlation Coefficient
 
-![alt text](https://github.com/[GauravGupta7]/[A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms]/blob/[main]/1.png?raw=true)
+![alt text](https://github.com/[GauravGupta7]/[A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms]/blob/[main]/ACM ALGORITHM AND IMAGES/1.png?raw=true)
