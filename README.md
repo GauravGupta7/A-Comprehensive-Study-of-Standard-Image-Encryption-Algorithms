@@ -21,7 +21,12 @@ Here we have tried to study the most used Image Encryption approaches. First we 
 * Adjacent Pixel Autocorrelation
 * Correlation Coefficient
 
-The results generated after encryption using RSA algorithm are attached below:  
+### Results of RSA Algorithm  
+The results generated after encryption using RSA algorithm on the image '1.png' are attached below:  
 ![Original Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png)
 ![Encrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png)
-![Decrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
+![Decrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)  
+
+| ![space-1.jpg](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png) |
+|:--:|
+| <b>Image Credits - Fig.2 - 4K Mountains Wallpaper</b>|
