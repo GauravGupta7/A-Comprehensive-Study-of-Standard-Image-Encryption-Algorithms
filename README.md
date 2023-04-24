@@ -27,3 +27,24 @@ The results generated after encryption using RSA algorithm on the image '1.png' 
 Original Image            |  Encrypted Image          |  Decrypted Image
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
+
+### Results of ACM Algorithm  
+The results generated after encryption using Arnold's Cat Map algorithm on the image '1.png' are attached below:  
+
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/1.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
+
+### Results of HCM Algorithm  
+The results generated after encryption using Henon's Chaotic Map algorithm on the image '1.png' are attached below:  
+
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/1.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
+
+### Results of LCM Algorithm  
+The results generated after encryption using Logistic Chaos Map algorithm on the image '1.png' are attached below:  
+
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/1.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
