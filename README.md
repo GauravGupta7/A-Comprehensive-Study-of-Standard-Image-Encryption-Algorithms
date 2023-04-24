@@ -48,3 +48,30 @@ The results generated after encryption using <b>Logistic Chaos Map algorithm</b>
 Original Image            |  Encrypted Image          |  Decrypted Image
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/1.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
+
+
+## Analysis
+We analysed the results using Histograms, Adjacent Pixel Autocorrelation and then finally calculated the correlation coefficient between Original and Encrypted image and Original and Decrypted image.
+
+### 1. Histogram Analysis
+For a good image encryption algorithm, the histogram of an encrypted image should be evenly distributed. Moreover, the histogram of original and encrypted image should not be identical. 
+
+For <b>RSA Algorithm</b> the histograms are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Histogram_RSA_Original.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Histogram_RSA_Encrypted.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Histogram_RSA_Decrypted.png)
+
+For <b>Arnold's Cat Map Algorithm</b> the histograms are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/Histogram_ACM_Original.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/Histogram_ACM_Encrypted.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/Histogram_ACM_Decrypted.png)
+
+For <b>Henon's Chaotic Map Algorithm</b> the histograms are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/Histogram_HCM_Original.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/Histogram_HCM_Encrypted.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/Histogram_HCM_Decrypted.png)
+
+For <b>Logistic Chaos Map Algorithm</b> the histograms are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Original.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Encrypted.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Decrypted.png)
