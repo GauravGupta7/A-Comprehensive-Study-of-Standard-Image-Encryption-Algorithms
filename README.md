@@ -35,3 +35,8 @@ The results generated after encryption using RSA algorithm on the image '1.png' 
 | ![Decrypted1.png](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png) |
 |:--:|
 | <b>Fig:</b> Decrypted|
+
+
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png)   ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
