@@ -1,6 +1,6 @@
 # A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms
 
-## <span style="color:red">Tools Used:</span>
+## <span style="color:blue">Tools Used:</span>
 
 * Python Programming Language
 * Google's COLAB
