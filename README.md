@@ -53,7 +53,7 @@ Original Image            |  Encrypted Image          |  Decrypted Image
 ## Analysis
 We analysed the results using Histograms, Adjacent Pixel Autocorrelation and then finally calculated the correlation coefficient between Original and Encrypted image and Original and Decrypted image.
 
-### 1. Histogram Analysis
+#### 1. Histogram Analysis
 For a good image encryption algorithm, the histogram of an encrypted image should be evenly distributed. Moreover, the histogram of original and encrypted image should not be identical. 
 
 For <b>RSA Algorithm</b> the histograms are shown below: 
@@ -76,7 +76,7 @@ Original Image            |  Encrypted Image          |  Decrypted Image
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Original.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Encrypted.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Decrypted.png)
 
-### 2. Adjacent Pixel Autocorrelation
+#### 2. Adjacent Pixel Autocorrelation
 For a good image encryption algorithm, the scatter plot of Adjacent Pixel Autocorrelation of the encrypted image should be well scattered. In original image the scattering is along the diagonal. 
 
 For <b>RSA Algorithm</b> the scatter plots of Adjacent Pixel Autocorrelation are shown below: 
@@ -99,7 +99,7 @@ Original Image            |  Encrypted Image          |  Decrypted Image
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_O.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_E.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_D.png)
 
-### 3. Correlation Coefficient:
+#### 3. Correlation Coefficient:
 For a good encryption algorithm, the correlation coefficient between the original and encrypted image should be as low as possible and the correlation coefficient between the original and decrypted image should be as high as possible. It is a ratio and generally lies between -1 and 1. The table below shows the average correlation coefficient for 3 different images for all four of the algorithms:
 
    Algorithm        |    Original-Encrypted     |    Original Decrypted
