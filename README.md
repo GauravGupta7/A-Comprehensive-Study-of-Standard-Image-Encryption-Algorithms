@@ -1,2 +1,11 @@
 # A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms
-FINAL YEAR PROJECT FOR THE DEGREE OF ELECTRONICS AND COMMUNICATION ENGINEERING
+
+Tools Used: 
+* Python Programming Language
+* Google's COLAB
+
+Libraries Used: 
+* Numpy
+* Matplotlib
+* Pillow
+* openCV
