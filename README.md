@@ -107,4 +107,4 @@ For a good encryption algorithm, the correlation coefficient between the origina
 RSA Algorithm        |    0.03180686           |    0.8110046767
 Arnold's Cat Map       |    0.08017079           |    1.0
 Henon's Chaotic Map        |    0.00423634           |    1.0
-Logistic Chaos Map        |    0.00135732           |    0.811005
+Logistic Chaos Map        |    0.00135732           |    0.8110050
