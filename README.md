@@ -75,3 +75,26 @@ For <b>Logistic Chaos Map Algorithm</b> the histograms are shown below:
 Original Image            |  Encrypted Image          |  Decrypted Image
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Original.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Encrypted.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/Histogram_LCM_Decrypted.png)
+
+### 2. Adjacent Pixel Autocorrelation
+For a good image encryption algorithm, the scatter plot of Adjacent Pixel Autocorrelation of the encrypted image should be well scattered. In original image the scattering is along the diagonal. 
+
+For <b>RSA Algorithm</b> the scatter plots of Adjacent Pixel Autocorrelation are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/APA_RSA_O.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/APA_RSA_E.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/APA_RSA_D.png)
+
+For <b>Arnold's Cat Map Algorithm</b> the scatter plots of Adjacent Pixel Autocorrelation are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/APA_ACM_O.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/APA_ACM_E.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/ACM%20ALGORITHM%20AND%20IMAGES/APA_ACM_D.png)
+
+For <b>Henon's Chaotic Map Algorithm</b> the scatter plots of Adjacent Pixel Autocorrelation are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/APA_HCM_O.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/APA_HCM_E.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/HCM%20ALGORITHM%20AND%20IMAGES/APA_HCM_D.png)
+
+For <b>Logistic Chaos Map Algorithm</b> the scatter plots of Adjacent Pixel Autocorrelation are shown below: 
+Original Image            |  Encrypted Image          |  Decrypted Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_O.png)  |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_E.png) |  ![](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/LCM%20ALGORITHM%20AND%20IMAGES/APA_LCM_D.png)
