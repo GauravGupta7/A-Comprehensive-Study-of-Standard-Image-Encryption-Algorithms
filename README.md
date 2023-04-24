@@ -21,7 +21,7 @@ Here we have tried to study the most used Image Encryption approaches. First we 
 * Adjacent Pixel Autocorrelation
 * Correlation Coefficient
 
-The results generated after encryption using RSA algorithm are attached below: 
+The results generated after encryption using RSA algorithm are attached below:  
 ![Original Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png)
 ![Encrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png)
-![Decrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png)
+![Decrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)
