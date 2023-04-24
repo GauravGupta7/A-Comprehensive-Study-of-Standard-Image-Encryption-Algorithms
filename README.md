@@ -23,10 +23,17 @@ Here we have tried to study the most used Image Encryption approaches. First we 
 
 ### Results of RSA Algorithm  
 The results generated after encryption using RSA algorithm on the image '1.png' are attached below:  
-![Original Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png)
 ![Encrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png)
 ![Decrypted Image](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png)  
 
 | ![1.png](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/1.png) |
 |:--:|
-| <b>Fig: Original Image|
+| <b>Fig:<\b> Original Image|
+
+| ![Encrypted1.png](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Encrypted_1.png) |
+|:--:|
+| <b>Fig:<\b> Encrypted Image|
+ 
+| ![Decrypted1.png](https://github.com/GauravGupta7/A-Comprehensive-Study-of-Standard-Image-Encryption-Algorithms/blob/main/RSA%20ALGORITHM%20AND%20IMAGES/Decrypted_1.png) |
+|:--:|
+| <b>Fig:<\b> Decrypted|
